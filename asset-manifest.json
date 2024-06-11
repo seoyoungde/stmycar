@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/stmycar/static/css/main.28ef1065.css",
+    "main.js": "/stmycar/static/js/main.a0e919b7.js",
+    "static/js/453.41cece9e.chunk.js": "/stmycar/static/js/453.41cece9e.chunk.js",
+    "index.html": "/stmycar/index.html",
+    "main.28ef1065.css.map": "/stmycar/static/css/main.28ef1065.css.map",
+    "main.a0e919b7.js.map": "/stmycar/static/js/main.a0e919b7.js.map",
+    "453.41cece9e.chunk.js.map": "/stmycar/static/js/453.41cece9e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.28ef1065.css",
+    "static/js/main.a0e919b7.js"
+  ]
+}
